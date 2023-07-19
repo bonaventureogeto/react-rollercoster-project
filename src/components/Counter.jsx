@@ -13,4 +13,4 @@ const Counter = ({ count, handleIncrement, handleDecrement }) => {
   );
 };
 
-export default Counter
+export default Counter;
